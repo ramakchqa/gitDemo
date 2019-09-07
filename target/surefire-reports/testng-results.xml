@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2019-09-06T11:03:05Z" finished-at="2019-09-06T11:03:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2019-09-06T11:03:05Z" finished-at="2019-09-06T11:03:05Z">
+      <class name="MyMaven.MavenProject.FirstTest">
+        <test-method status="PASS" signature="LoginThirdTest()[pri:0, instance:MyMaven.MavenProject.FirstTest@7cdbc5d3]" name="LoginThirdTest" duration-ms="0" started-at="2019-09-06T16:33:05Z" finished-at="2019-09-06T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginThirdTest -->
+        <test-method status="PASS" signature="LogoutThirdTest()[pri:0, instance:MyMaven.MavenProject.FirstTest@7cdbc5d3]" name="LogoutThirdTest" duration-ms="0" started-at="2019-09-06T16:33:05Z" finished-at="2019-09-06T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutThirdTest -->
+      </class> <!-- MyMaven.MavenProject.FirstTest -->
+      <class name="MyMaven.MavenProject.SecondTest">
+        <test-method status="PASS" signature="LoginFirstTest()[pri:0, instance:MyMaven.MavenProject.SecondTest@7006c658]" name="LoginFirstTest" duration-ms="10" started-at="2019-09-06T16:33:05Z" finished-at="2019-09-06T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFirstTest -->
+        <test-method status="PASS" signature="LogoutFirstTest()[pri:0, instance:MyMaven.MavenProject.SecondTest@7006c658]" name="LogoutFirstTest" duration-ms="1" started-at="2019-09-06T16:33:05Z" finished-at="2019-09-06T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFirstTest -->
+      </class> <!-- MyMaven.MavenProject.SecondTest -->
+      <class name="MyMaven.MavenProject.ThirdTest">
+        <test-method status="PASS" signature="LoginFirstTest()[pri:0, instance:MyMaven.MavenProject.ThirdTest@3aa9e816]" name="LoginFirstTest" duration-ms="0" started-at="2019-09-06T16:33:05Z" finished-at="2019-09-06T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFirstTest -->
+        <test-method status="PASS" signature="LogoutFirstTest()[pri:0, instance:MyMaven.MavenProject.ThirdTest@3aa9e816]" name="LogoutFirstTest" duration-ms="0" started-at="2019-09-06T16:33:05Z" finished-at="2019-09-06T16:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFirstTest -->
+      </class> <!-- MyMaven.MavenProject.ThirdTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
